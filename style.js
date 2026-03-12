@@ -180,4 +180,4 @@ console.log("Name: " + name4);
 console.log("Age: " + age3);
 console.log("Happy: " + question2);
 alert("practice End");
-document.writeln("Thank You!");
+document.writeln("Thank You!");// thank you
